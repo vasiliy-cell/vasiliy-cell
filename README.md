@@ -1,41 +1,31 @@
 
- Привет, я Василий! 👋
+# Hi, I'm Vasiliy! 👋
 
-Я занимаюсь IT-проектами с 14 лет. Сейчас мой фокус — системное администрирование, backend-разработка и подготовка к Duale Ausbildung в Германии [12].
+I have been developing my own IT projects since I was 14 and managing my own self-configured Linux servers. 
 
 ---
 
-### 💻 Мой Технологический Стек
+### 💻 Technical Stack
 
-**Languages & Frameworks**
+**Programming & Web**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) 
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-**Linux & System Administration**
-*   **OS:** Linux (основная система), Kernel vs User Space, Syscalls [10, 11].
-*   **Process Management:** PID 1, Systemd, Boot process (GRUB, UEFI) [11].
-*   **Web Servers:** Nginx, Reverse Proxy, SSL/TLS (Let's Encrypt) [10].
-*   **Infrastructure:** Docker, SSH, Git, GitHub Actions (CI/CD) [10, 11].
-
-**Networking**
-*   **Protocols:** TCP/IP, DNS, OSI Model, SSL/TLS [10].
-
-**AI & Automation**
-*   **Tools:** Разработка MCP-серверов, интеграция AI в рабочие процессы (Tauri, xterm.js) [13, 14].
-
----
-
-### 🚀 Проекты
-*   **AICLI** — Терминал на Rust с ИИ-помощником [14].
-*   **MCP Server** — Инструмент для семантического анализа кода через ИИ [15].
-*   **Self-Hosted Portfolio** — Мой сайт, развернутый на собственном сервере «с нуля» [16].
+**Linux, DevOps & CI/CD**
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/CI/CD-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![SSH](https://img.shields.io/badge/SSH-000000?style=flat-square&logo=openssh&logoColor=white)
 
 ---
 
-### 📊 Статистика и Активность
-<p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ТВОЙ_ЛОГИН&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ТВОЙ_ЛОГИН&layout=compact&langs_count=7&theme=dracula"/>
-</p>
+### 📫 Connect with me
+*   **Personal Website:** [gavrilin-vasiliy.com](https://gavrilin-vasiliy.com/) 
+*   **Email:** [vasiliy@gavrilin-vasiliy.com](mailto:vasiliy@gavrilin-vasiliy.com) 
