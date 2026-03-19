@@ -1,6 +1,8 @@
 
 <img width="1825" height="720" alt="banner" src="https://github.com/user-attachments/assets/3208d9e2-f5c2-4e10-b8ed-e570f3b11e06" />
 
+--- 
+
 I have been developing my own IT projects since I was 14 and managing my own self-configured Linux servers. 
 
 ---
