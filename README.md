@@ -1,11 +1,11 @@
 
-# Hi, I'm Vasiliy! 👋
+<img width="1825" height="720" alt="banner" src="https://github.com/user-attachments/assets/3208d9e2-f5c2-4e10-b8ed-e570f3b11e06" />
 
 I have been developing my own IT projects since I was 14 and managing my own self-configured Linux servers. 
 
 ---
 
-### 💻 Technical Stack
+###  Technical Stack
 
 **Programming & Web**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) 
@@ -26,6 +26,7 @@ I have been developing my own IT projects since I was 14 and managing my own sel
 
 ---
 
-### 📫 Connect with me
+###  Connect with me
 *   **Personal Website:** [gavrilin-vasiliy.com](https://gavrilin-vasiliy.com/) 
 *   **Email:** [vasiliy@gavrilin-vasiliy.com](mailto:vasiliy@gavrilin-vasiliy.com) 
+*  **Linkedin:** https://www.linkedin.com/in/vasiliy-gavrilin/
